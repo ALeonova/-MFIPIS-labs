@@ -114,13 +114,13 @@ def nod4(a, b):
 
 
 print('Алгоритм Евклида')
-print(check(nod1))
+check(nod1)
 
 print('\nБинарный алгоритм Евклида')
-print(check(nod2))
+check(nod2)
 
 print('\nРасширенный алгоритм Евклида')
-print(check(nod3))
+check(nod3)
 
 print('\nРасширенный бинарный алгоритм Евклида')
-print(check(nod4))
+check(nod4)
